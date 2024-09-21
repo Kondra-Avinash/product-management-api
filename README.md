@@ -1,7 +1,5 @@
 # product-management-api
 
-# product-management-api
-
 Features
 Product Management
 
